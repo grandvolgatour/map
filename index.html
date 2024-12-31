@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>🚲 Grand Volga Tour Map</title>
+    <meta property="og:title" content="🚲 Grand Volga Tour Map" />
+    <meta property="og:description" content="Grand Volga Tour Map" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://andrewalevin.github.io/grand-volga-tour-map/" />
+    <meta property="og:image" content="https://andrewalevin.github.io/grand-volga-tour-map/preview.png" />
+
+    <link rel="icon" href="favicon.svg" type="image/svg+xml">
+
+
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+
+
+    <link href="https://api.mapbox.com/mapbox-gl-js/v3.2.0/mapbox-gl.css" rel="stylesheet">
+    <script src="https://api.mapbox.com/mapbox-gl-js/v3.2.0/mapbox-gl.js"></script>
+
+
+    <link href="https://andrewalevin.github.io/mapbox-adventure/src/cozyspots-v2.2.css" rel="stylesheet">
+
+    <style>
+
+
+    </style>
+</head>
+
+<body>
+    <div id="map"></div>
+
+    <script src="https://andrewalevin.github.io/mapbox-adventure/assets/js-yaml.min.js"></script>
+
+    <script src="https://unpkg.com/@turf/turf@6/turf.min.js"></script>
+
+
+    <script>
+        window.config = window.config || {
+            mapboxToken: 'pk.eyJ1IjoiYW5kcmV3bGV2aW4iLCJhIjoiY2t5ZXM5c3cyMWJxYjJvcGJycmw0dGlyeSJ9.9QfCmimkyYicpprraBc-XQ',
+            mapStyle:  'mapbox://styles/andrewlevin/clurjvodg013d01pe0fqncusu',
+            mapZoom: 8,
+            mapCenter: [55.673263, 36.760358],
+            routesRoot: 'segmants',
+            imagesRoot: 'imgs',
+            routes: [
+                {'path': 'gvt-p1-p0-p1.gpx', 'color': 'red', 'title': 'Осташков - Волговерховье - Осташков'},
+                {'path': 'gvt-p1-p2.gpx', 'color': 'navy', 'title': 'Осташков - Торжок'},
+                {'path': 'gvt-p2-p3.gpx', 'color': 'red', 'title': 'Торжок - Тверь'},
+                {'path': 'gvt-p3-p3-1.gpx', 'color': 'navy', 'title': 'Тверь - 🚢 Переправа Топорок (с тверской стороны напротив Конаково)'},
+                {'path': 'gvt-p3-2-p4.gpx', 'color': 'red', 'title': '🚢📍 Переправа Зеленый Бор (со стороны Конаково) - Конаково'},
+                {'path': 'gvt-p4-p4-1.gpx', 'color': 'navy', 'title': 'Конаково - 🚢📍 Переправа через канал (со стороны Конаково)'},
+                {'path': 'gvt-p4-2-p5.gpx', 'color': 'red', 'title': '🚢 Переправа через канал (со стороны Дубны) - Дубна'},
+                {'path': 'gvt-p5-p6.gpx', 'color': 'navy', 'title': 'Дубна - Кимры (Савелово)'},
+                {'path': 'gvt-p6-p7.gpx', 'color': 'red', 'title': 'Кимры (Савелово) - Калязин'},
+                {'path': 'gvt-p7-p8.gpx', 'color': 'navy', 'title': 'Калязин - Углич'},
+                {'path': 'gvt-p8-p9.gpx', 'color': 'red', 'title': 'Углич - Мышкин'},
+                {'path': 'gvt-p9-p9-1.gpx', 'color': 'navy', 'title': 'Мышкин - 🚢 Переправа в Солнцево. На Мышкинской стороне'},
+                {'path': 'gvt-p9-2-p10.gpx', 'color': 'red', 'title': '🚢 Переправа в Глебово (с рыбинской стороны) - Рыбинск'},
+                {'path': 'gvt-p10-p11.gpx', 'color': 'navy', 'title': 'Рыбинск - Тутаев (Романовская сторона)'},
+                {'path': 'gvt-p11-p12.gpx', 'color': 'red', 'title': 'Тутаев (Романовская сторона) - Ярославль'},
+                {'path': 'gvt-p12-p13.gpx', 'color': 'navy', 'title': 'Ярославль - Кострома'},
+                {'path': 'gvt-p13-2-p14.gpx', 'color': 'red', 'title': 'Кострома - 🚢 Переправа Красное на Волге. Пристань'},
+                {'path': 'gvt-p13-p13-1.gpx', 'color': 'navy', 'title': '🚢 Переправа Красные Пожни. Пристань - Плёс'},
+                {'path': 'gvt-p14-1-p15.gpx', 'color': 'red', 'title': '🚢 Плёс. Пристань в Гравийном карьере - Кинешма'},
+                {'path': 'gvt-p15-p16.gpx', 'color': 'navy', 'title': 'Кинешма - Юрьевец'},
+                {'path': 'gvt-p16-p17.gpx', 'color': 'red', 'title': 'Юрьевец - Городец'},
+                {'path': 'gvt-p17-p18.gpx', 'color': 'navy', 'title': 'Городец - Нижний Новгород'}
+            ]
+        };
+
+    </script>
+
+    <script src="https://andrewalevin.github.io/mapbox-adventure/src/cozyspots-v2.4.js"></script>
+
+</body>
+
+</html>
