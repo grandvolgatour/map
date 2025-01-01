@@ -21,7 +21,7 @@ jobs:
     - name: 🥒 Resize
       run: |
         impressify images 100
-        impressify imgages 220
+        impressify images 220
 
     - name: 🍒 Git Auto Commit
       uses: stefanzweifel/git-auto-commit-action@v5
