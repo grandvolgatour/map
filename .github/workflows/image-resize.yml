@@ -21,8 +21,8 @@ jobs:
       
     - name: 🥒 Resize
       run: |
-        impressify images 100 --progressive
-        impressify images 220 --progressive
+        impressify images 120 --progressive
+        impressify images 420 --progressive
         impressify images-sizes 1000 --progressive
         impressify images-sizes 1200 --progressive
         impressify images-sizes 1400 --progressive
