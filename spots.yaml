@@ -21,12 +21,12 @@
 
 - coords: 56.705118, 36.712557
   title: Переправа Топорок (с тверской стороны напротив Конаково)
-  img: gvt-3.1-toporok.jpg
+  img: gvt-3-1-toporok.jpg
   link: https://yandex.ru/maps/-/CHQLzZOi
 
 - coords: 56.695921, 36.732630
   title: 🚢 Переправа Зеленый Бор. В Конаково
-  img: gvt-3.2-zelbor.jpg
+  img: gvt-3-2-zelbor.jpg
   link: https://yandex.ru/maps/-/CHQLzZ9K
 
 - coords: 56.705108, 36.749283
@@ -36,12 +36,12 @@
 
 - coords: 56.713778, 37.132807
   title: 🚢 Переправа через канал (Конаковский берег)
-  img: gvt-4.1-kanal.jpg
+  img: gvt-4-1-kanal.jpg
   link: https://yandex.ru/maps/-/CHQLzKnn
 
 - coords: 56.714377, 37.134082
   title: 🚢 Переправа через канал (Дубненский берег)
-  img: gvt-4.2-kanal.jpg
+  img: gvt-4-2-kanal.jpg
   link: https://yandex.ru/maps/-/CHQLzKp9
 
 - coords: 56.730965, 37.124717
@@ -71,12 +71,12 @@
 
 - coords: 57.986915, 38.424874
   title: 🚢 Переправа в Солнцево. На Мышкинской стороне
-  img: gvt-9.1-solntsevo.jpg
+  img: gvt-9-1-solntsevo.jpg
   link: https://yandex.ru/maps/-/CHQ1nFPi
 
 - coords: 57.986355, 38.449303
   title: 🚢 Переправа в Глебово. Со стороны Рыбинска
-  img: gvt-9.2-glebovo.jpg
+  img: gvt-9-2-glebovo.jpg
   link: https://yandex.ru/maps/-/CHQ1nJOC
 
 - coords: 58.050167, 38.854570
@@ -101,12 +101,12 @@
 
 - coords: 57.494938, 41.233934
   title: 🚢 Переправа Красное на Волге. Пристань
-  img: gvt-13.1-krasnoe-pozhni.jpg
+  img: gvt-13-1-krasnoe-pozhni.jpg
   link: https://yandex.ru/maps/-/CHQ1n88Q
 
 - coords: 57.486621, 41.234187
   title: Переправа Красные Пожни. Пристань
-  img: gvt-13.2-pozhni-ples.jpg
+  img: gvt-13-2-pozhni-ples.jpg
   link: https://yandex.ru/maps/-/CHQ1n0Yf
 
 - coords: 57.461264, 41.513416
