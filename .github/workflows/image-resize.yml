@@ -1,4 +1,5 @@
 name: 🥒 Resize Images - Python application
+
 on:
   push:
     branches: [ "main" ]
