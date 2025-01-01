@@ -1,0 +1,38 @@
+name: 🥒 Resize Images - Python application
+on:
+  push:
+    branches: [ "main" ]
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: 🥑 Set up Python
+      uses: actions/setup-python@v3
+      with:
+        python-version: "3.x"
+        
+    - name: 🥦 Install impressify
+      run: pip install impressify
+      
+    - name: 🥒 Resize
+      run: |
+        impressify images 100
+        impressify imgages 220
+
+    - name: 🍒 Git Auto Commit
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: Apply automatic changes
+
+
+
+
+
+
+
+
+
