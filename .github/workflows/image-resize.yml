@@ -20,14 +20,14 @@ jobs:
       
     - name: 🥒 Resize
       run: |
-        impressify images 100
-        impressify images 220
+        impressify images 100 --progressive
+        impressify images 220 --progressive
         impressify images-sizes 400
         impressify images-sizes 500
         impressify images-sizes 600
         impressify images-sizes 1000
-        impressify images-sizes 1200
-        impressify images-sizes 1400
+        impressify images-sizes 1200 --progressive
+        impressify images-sizes 1400 --progressive
 
     - name: 🍒 Git Auto Commit
       uses: stefanzweifel/git-auto-commit-action@v5
