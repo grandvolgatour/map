@@ -25,6 +25,9 @@ jobs:
         impressify images-sizes 400
         impressify images-sizes 500
         impressify images-sizes 600
+        impressify images-sizes 1000
+        impressify images-sizes 1200
+        impressify images-sizes 1400
 
     - name: 🍒 Git Auto Commit
       uses: stefanzweifel/git-auto-commit-action@v5
