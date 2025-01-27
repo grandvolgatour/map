@@ -40,6 +40,7 @@
 
         const railwayColor = 'DarkGoldenRod';
         const widthCycleRoute = 4;
+        const widthRailway = 2;
 
         window.config = window.config || {
             mapboxToken: 'pk.eyJ1IjoiYW5kcmV3bGV2aW4iLCJhIjoiY2t5ZXM5c3cyMWJxYjJvcGJycmw0dGlyeSJ9.9QfCmimkyYicpprraBc-XQ',
@@ -80,144 +81,178 @@
                 }, {
                     'path': 'gvt-3.1-toporok-preprava-river.gpx',
                     'color': 'DeepSkyBlue',
-                    'title': '🚢 Переправа Топорок - Зеленый Бор'
+                    'title': '🚢 Переправа Топорок - Зеленый Бор',
+                    'width': widthCycleRoute
                 }, {
                     'path': 'gvt-3.2-zelbor-konakovo.gpx',
                     'color': 'red',
-                    'title': '🚢 Зеленый Бор - Конаково'
+                    'title': '🚢 Зеленый Бор - Конаково',
+                    'width': widthCycleRoute
                 }, {
                     'path': 'gvt-4-konakovo-kanal-konakovo.gpx',
                     'color': 'limegreen',
-                    'title': 'Конаково - 🚢 Канал (со стороны Конаково)'
+                    'title': 'Конаково - 🚢 Канал (со стороны Конаково)',
+                    'width': widthCycleRoute
                 }, {
                     'path': 'gvt-4.1-kanal-river.gpx',
                     'color': 'DeepSkyBlue',
-                    'title': '🚢 Переправа через канал им. Москвы'
+                    'title': '🚢 Переправа через канал им. Москвы',
+                    'width': widthCycleRoute
                 }, {
                     'path': 'gvt-4.2-kanal-dubna.gpx',
                     'color': 'red',
-                    'title': '🚢 Канал - Дубна'
+                    'title': '🚢 Канал - Дубна',
+                    'width': widthCycleRoute
                 }, {
                     'path': 'gvt-5-dubna-kimry.gpx',
                     'color': 'limegreen',
-                    'title': 'Дубна - Кимры (Савелово)'
+                    'title': 'Дубна - Кимры (Савелово)',
+                    'width': widthCycleRoute
                 }, {
                     'path': 'gvt-6-kimry-kalyazin.gpx',
                     'color': 'red',
-                    'title': 'Кимры (Савелово) - Калязин'
+                    'title': 'Кимры (Савелово) - Калязин',
+                    'width': widthCycleRoute
                 }, {
                     'path': 'gvt-7-kalyazin-uglich.gpx',
                     'color': 'limegreen',
-                    'title': 'Калязин - Углич'
+                    'title': 'Калязин - Углич',
+                    'width': widthCycleRoute
                 }, {
                     'path': 'gvt-8-uglich-myshkin.gpx',
                     'color': 'red',
-                    'title': 'Углич - Мышкин'
+                    'title': 'Углич - Мышкин',
+                    'width': widthCycleRoute
                 }, {
                     'path': 'gvt-9-myshkin-solntsevo.gpx',
                     'color': 'limegreen',
-                    'title': 'Мышкин - 🚢 Переправа в Солнцево'
+                    'title': 'Мышкин - 🚢 Переправа в Солнцево',
+                    'width': widthCycleRoute
                 }, {
                     'path': 'gvt-9.1-solntsevo-glebovo-river.gpx',
                     'color': 'DeepSkyBlue',
-                    'title': '🚢 Переправа. Солнцево - Глебово'
+                    'title': '🚢 Переправа. Солнцево - Глебово',
+                    'width': widthCycleRoute
                 }, {
                     'path': 'gvt-9.2-glebovo-rybinsk.gpx',
                     'color': 'red',
-                    'title': '🚢 Глебово - Рыбинск'
+                    'title': '🚢 Глебово - Рыбинск',
+                    'width': widthCycleRoute
                 }, {
                     'path': 'gvt-10-rybinsk-tutayev.gpx',
                     'color': 'limegreen',
-                    'title': 'Рыбинск - Тутаев (Романовская сторона)'
+                    'title': 'Рыбинск - Тутаев (Романовская сторона)',
+                    'width': widthCycleRoute
                 }, {
                     'path': 'gvt-11-tutayev-yaroslavl.gpx',
                     'color': 'yellow',
-                    'title': 'Тутаев (Романовская сторона) - Ярославль'
+                    'title': 'Тутаев (Романовская сторона) - Ярославль',
+                    'width': widthCycleRoute
                 }, {
                     'path': 'gvt-12-yaroslavl-kostroma.gpx',
                     'color': 'red',
-                    'title': 'Ярославль - Кострома'
+                    'title': 'Ярославль - Кострома',
+                    'width': widthCycleRoute
                 }, {
                     'path': 'gvt-12.1-nerehta-kostroma.gpx',
                     'color': 'yellow',
-                    'title': 'Нерехта - Кострома'
+                    'title': 'Нерехта - Кострома',
+                    'width': widthCycleRoute
                 }, {
                     'path': 'gvt-13-kostroma-krasnoe.gpx',
                     'color': 'limegreen',
-                    'limegreen': 'Кострома - 🚢 Красное на Волге'
+                    'limegreen': 'Кострома - 🚢 Красное на Волге',
+                    'width': widthCycleRoute
                 }, {
                     'path': 'gvt-13.1-krasnoe-pozhni.gpx',
                     'color': 'DeepSkyBlue',
-                    'title': '🚢 Переправа. Красное на Волге - Красные Пожни'
+                    'title': '🚢 Переправа. Красное на Волге - Красные Пожни',
+                    'width': widthCycleRoute
                 }, {
                     'path': 'gvt-13.2-pozhni-ples.gpx',
                     'color': 'red',
-                    'title': '🚢 Красные Пожни - Плёс'
+                    'title': '🚢 Красные Пожни - Плёс',
+                    'width': widthCycleRoute
                 }, {
                     'path': 'gvt-13.3-krasnoe-grav.gpx',
                     'color': 'yellow',
-                    'title': 'Красное на Волге - 🚢 Гравийный карьер'
+                    'title': 'Красное на Волге - 🚢 Гравийный карьер',
+                    'width': widthCycleRoute
                 }, {
                     'path': 'gvt-13.4-ples-river.gpx',
                     'color': 'DeepSkyBlue',
-                    'title': '🚢 Переправа. Гравийный карьер - Плёс'
+                    'title': '🚢 Переправа. Гравийный карьер - Плёс',
+                    'width': widthCycleRoute
                 }, {
                     'path': 'gvt-14-grav-kineshma.gpx',
                     'color': 'limegreen',
-                    'title': '🚢 Пристань Гравийный карьере - Кинешма'
+                    'title': '🚢 Пристань Гравийный карьере - Кинешма',
+                    'width': widthCycleRoute
                 }, {
                     'path': 'gvt-15-kineshma-yurevets.gpx',
                     'color': 'yellow',
-                    'title': 'Кинешма - Юрьевец'
+                    'title': 'Кинешма - Юрьевец',
+                    'width': widthCycleRoute
                 }, {
                     'path': 'gvt-16-yurevets-gorodets.gpx',
                     'color': 'limegreen',
-                    'title': 'Юрьевец - Городец'
+                    'title': 'Юрьевец - Городец',
+                    'width': widthCycleRoute
                 }, {
                     'path': 'gvt-17-gorodets-nnovgorod.gpx',
                     'color': 'red',
                     'title': 'Городец - Нижний Новгород'
+                    ,'width': widthCycleRoute
                 }, {
                     'path': 'rw-ostashkov-kuvchinovo.gpx',
+                    'title': '🚂 Осташков - Кувшиново',
                     'color': railwayColor,
-                    'title': '🚂 Осташков - Кувшиново'
+                    'width': widthRailway
                 }, {
                     'path': 'rw-torzhok-tver.gpx',
+                    'title': '🚂 Торжок - Тверь',
                     'color': railwayColor,
-                    'title': '🚂 Торжок - Тверь'
+                    'width': widthRailway
                 }, {
                     'path': 'rw-kimry-kalyazin.gpx',
+                    'title': '🚂 Кимры (Савелово) - Калязин',
                     'color': railwayColor,
-                    'title': '🚂 Кимры (Савелово) - Калязин'
+                    'width': widthRailway
                 }, {
                     'path': 'rw-kalyazin-uglich.gpx',
+                    'title': '🚂 Калязин - Углич',
                     'color': railwayColor,
-                    'title': '🚂 Калязин - Углич'
+                    'width': widthRailway
                 }, {
                     'path': 'rw-kalyazin-volga.gpx',
-                    'color': railwayColor,
                     'title': '🚂 Калязин - ст. Волга (Глебово)',
-                    'width': 1
+                    'color': railwayColor,
+                    'width': widthRailway
                 }, {
                     'path': 'rw-volga-rybinsk.gpx',
+                    'title': '🚂 ст. Волга (Глебово) - Рыбинск',
                     'color': railwayColor,
-                    'title': '🚂 ст. Волга (Глебово) - Рыбинск'
+                    'width': widthRailway
                 }, {
                     'path': 'rw-rybinsk-yaroslavl.gpx',
+                    'title': '🚂 Рыбинск - Тутаев - Ярославль',
                     'color': railwayColor,
-                    'title': '🚂 Рыбинск - Тутаев - Ярославль'
+                    'width': widthRailway
                 }, {
                     'path': 'rw-yaroslavl-nerekhta.gpx',
+                    'title': '🚂 Ярославль - Нерехта (на поезде)',
                     'color': railwayColor,
-                    'title': '🚂 Ярославль - Нерехта (на поезде)'
+                    'width': widthRailway
                 }, {
                     'path': 'rw-nerekhta-kostroma.gpx',
+                    'title': '🚂 Нерехта - Кострома (на поезде)',
                     'color': railwayColor,
-                    'title': '🚂 Нерехта - Кострома (на поезде)'
+                    'width': widthRailway
                 }, {
                     'path': 'rw-zavolchye-nn.gpx',
+                    'title': '🚂 Заволжье (Городец) - Нижний Новгород (на поезде)',
                     'color': railwayColor,
-                    'title': '🚂 Заволжье (Городец) - Нижний Новгород (на поезде)'
+                    'width': widthRailway
                 }
             ]
         };
