@@ -4,7 +4,7 @@
   title: Исток реки Волги
   img: p0-volgoverkhovie.jpg
   links:
-    - /#p0
+    - https://grandvolgatour.github.io/#p0
     - https://yandex.ru/maps/-/CHQXVXKv
 
 
@@ -13,7 +13,7 @@
   title: Осташков. Старая колокольня в центральном парке
   img: p1-ostashkov.jpg
   links:
-    - /#p1
+    - https://grandvolgatour.github.io/#p1
     - https://yandex.ru/maps/-/CHQ1v4Ip
 
 - coords: 57.040948, 34.961115
@@ -21,7 +21,7 @@
   id: p2
   img: p2-torzhok.jpg
   links:
-    - /#p2
+    - https://grandvolgatour.github.io/#p2
     - https://yandex.ru/maps/-/CHQ1vFIA
 
 - coords: 56.863514, 35.901868
@@ -29,7 +29,7 @@
   id: p3
   img: p3-tver.jpg
   links:
-    - /#p3
+    - https://grandvolgatour.github.io/#p3
     - https://yandex.ru/maps/-/CHQ1vF1J
 
 - coords: 56.705118, 36.712557
@@ -37,7 +37,7 @@
   id: p3a
   img: p3a-toporok.jpg
   links:
-    - /#p3a
+    - https://grandvolgatour.github.io/#p3a
     - https://yandex.ru/maps/-/CHQLzZOi
 
 - coords: 56.695921, 36.732630
@@ -45,7 +45,7 @@
   id: p3b
   img: p3b-zelbor.jpg
   links:
-    - /#p3b
+    - https://grandvolgatour.github.io/#p3b
     - https://yandex.ru/maps/-/CHQLzZ9K
 
 - coords: 56.705108, 36.749283
@@ -53,7 +53,7 @@
   id: p4
   img: p4-konakovo.jpg
   links:
-    - /#p4
+    - https://grandvolgatour.github.io/#p4
     - https://yandex.ru/maps/-/CHQLzZYB
 
 - coords: 56.713778, 37.132807
@@ -61,7 +61,7 @@
   id: p4a
   img: p4a-kanal.jpg
   links:
-    - /#p4a
+    - https://grandvolgatour.github.io/#p4a
     - https://yandex.ru/maps/-/CHQLzKnn
 
 - coords: 56.714377, 37.134082
@@ -69,7 +69,7 @@
   id: p4b
   img: p4b-kanal.jpg
   links:
-    - /#p4b
+    - https://grandvolgatour.github.io/#p4b
     - https://yandex.ru/maps/-/CHQLzKp9
 
 - coords: 56.730965, 37.124717
@@ -77,7 +77,7 @@
   id: p5
   img: p5-dubna.jpg
   links:
-    - /#p5
+    - https://grandvolgatour.github.io/#p5
     - https://yandex.ru/maps/-/CHQ1vSkg
 
 - coords: 56.857229, 37.365838
@@ -85,7 +85,7 @@
   id: p6
   img: p6-kimry.jpg
   links:
-    - /#p6
+    - https://grandvolgatour.github.io/#p6
     - https://yandex.ru/maps/-/CHQ1zR5U
 
 - coords: 57.241691, 37.855486
@@ -93,7 +93,7 @@
   id: p7
   img: p7-kalyazin.jpg
   links:
-    - /#p7
+    - https://grandvolgatour.github.io/#p7
     - https://yandex.ru/maps/-/CHQ1j8-m
 
 - coords: 57.530853, 38.320916
@@ -101,7 +101,7 @@
   id: p8
   img: p8-uglich.jpg
   links:
-    - /#p8
+    - https://grandvolgatour.github.io/#p8
     - https://yandex.ru/maps/-/CHQ1j2Jx
 
 - coords: 57.785985, 38.457988
@@ -109,7 +109,7 @@
   id: p9
   img: p9-myshkin.jpg
   links:
-    - /#p9
+    - https://grandvolgatour.github.io/#p9
     - https://yandex.ru/maps/-/CHQ1nB5a
 
 - coords: 57.986915, 38.424874
@@ -117,7 +117,7 @@
   id: p9a
   img: p9a-solntsevo.jpg
   links:
-    - /#p9a
+    - https://grandvolgatour.github.io/#p9a
     - https://yandex.ru/maps/-/CHQ1nFPi
 
 - coords: 57.986355, 38.449303
@@ -125,7 +125,7 @@
   id: p9b
   img: p9b-glebovo.jpg
   links:
-    - /#p9b
+    - https://grandvolgatour.github.io/#p9b
     - https://yandex.ru/maps/-/CHQ1nJOC
 
 - coords: 58.050167, 38.854570
@@ -133,7 +133,7 @@
   id: p10
   img: p10-rybinsk.jpg
   links:
-    - /#p10
+    - https://grandvolgatour.github.io/#p10
     - https://yandex.ru/maps/-/CHQ1nN0A
 
 - coords: 57.880701, 39.535863
@@ -141,7 +141,7 @@
   id: p11
   img: p11-tutayev.jpg
   links:
-    - /#p11
+    - https://grandvolgatour.github.io/#p11
     - https://yandex.ru/maps/-/CHQ1nR5U
 
 - coords: 57.621442, 39.904190
@@ -149,7 +149,7 @@
   id: p12
   img: p12-yaroslavl.jpg
   links:
-    - /#p12
+    - https://grandvolgatour.github.io/#p12
     - https://yandex.ru/maps/-/CHQ1nZIS
 
 - coords: 57.462546, 40.572427
@@ -157,7 +157,7 @@
   id: p12a
   img: p12a-nerehta.jpg
   links:
-    - /#p12a
+    - https://grandvolgatour.github.io/#p12a
     - https://yandex.ru/maps/-/CHad7ClO
 
 - coords: 57.767815, 40.926999
@@ -165,7 +165,7 @@
   id: p13
   img: p13-kostroma.jpg
   links:
-    - /#p13
+    - https://grandvolgatour.github.io/#p13
     - https://yandex.ru/maps/-/CHQ1nKoI
 
 - coords: 57.494938, 41.233934
@@ -173,7 +173,7 @@
   id: p13a
   img: p13a-krasnoe-pozhni.jpg
   links:
-    - /#p13a
+    - https://grandvolgatour.github.io/#p13a
     - https://yandex.ru/maps/-/CHQ1n88Q
 
 - coords: 57.486621, 41.234187
@@ -181,7 +181,7 @@
   id: p13b
   img: p13b-pozhni-ples.jpg
   links:
-    - /#p13b
+    - https://grandvolgatour.github.io/#p13b
     - https://yandex.ru/maps/-/CHQ1n0Yf
 
 - coords: 57.461264, 41.513416
@@ -189,7 +189,7 @@
   id: p14
   img: p14-ples.jpg
   links:
-    - /#p14
+    - https://grandvolgatour.github.io/#p14
     - https://yandex.ru/maps/-/CHQ1nD1I
 
 - coords: 57.463015, 41.539350
@@ -197,7 +197,7 @@
   id: p14b
   img: p14b-krasnoe-grav.jpg
   links:
-    - /#p14b
+    - https://grandvolgatour.github.io/#p14b
     - https://yandex.ru/maps/-/CHQ1nHNV
 
 - coords: 57.443752, 42.174053
@@ -205,7 +205,7 @@
   id: p15
   img: p15-kineshma.jpg
   links:
-    - /#p15
+    - https://grandvolgatour.github.io/#p15
     - https://yandex.ru/maps/-/CHQ1nSiE
 
 - coords: 57.318713, 43.111136
@@ -213,7 +213,7 @@
   id: p16
   img: p16-yurevets.jpg
   links:
-    - /#p16
+    - https://grandvolgatour.github.io/#p16
     - https://yandex.ru/maps/-/CHQ1nL6O
 
 - coords: 56.641548, 43.464703
@@ -221,7 +221,7 @@
   id: p17
   img: p17-gorodets.jpg
   links:
-    - /#p17
+    - https://grandvolgatour.github.io/#p17
     - https://yandex.ru/maps/-/CHQ1rI7u
 
 - coords: 56.330028, 44.009432
@@ -229,6 +229,6 @@
   id: p18
   img: p18-nnovgorod.jpg
   links:
-    - /#p18
+    - https://grandvolgatour.github.io/#p18
     - https://yandex.ru/maps/-/CHQ1rMmn
 
