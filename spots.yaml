@@ -1,146 +1,205 @@
 
 - coords: 57.251332, 32.467774
+  id: p0
   title: Исток реки Волги
-  img: gvt-0-volgoverkhovie.jpg
-  link: https://yandex.ru/maps/-/CHQXVXKv
+  img: p0-volgoverkhovie.jpg
+  links:
+    - https://yandex.ru/maps/-/CHQXVXKv
+
 
 - coords: 57.155667, 33.100617
+  id: p1
   title: Осташков. Старая колокольня в центральном парке
-  img: gvt-1-ostashkov.jpg
-  link: https://yandex.ru/maps/-/CHQ1v4Ip
+  img: p1-ostashkov.jpg
+  links:
+    - https://yandex.ru/maps/-/CHQ1v4Ip
 
 - coords: 57.040948, 34.961115
   title: Торжок. Пешеходный старый вантовый мост рядом с памятником Н.А. Львову
-  img: gvt-2-torzhok.jpg
-  link: https://yandex.ru/maps/-/CHQ1vFIA
+  id: p2
+  img: p2-torzhok.jpg
+  links:
+    - https://yandex.ru/maps/-/CHQ1vFIA
 
 - coords: 56.863514, 35.901868
   title: Тверь. Памятник А.С. Пушкину на набережной Волги
-  img: gvt-3-tver.jpg
-  link: https://yandex.ru/maps/-/CHQ1vF1J
+  id: p3
+  img: p3-tver.jpg
+  links:
+    - https://yandex.ru/maps/-/CHQ1vF1J
 
 - coords: 56.705118, 36.712557
   title: Переправа Топорок (с тверской стороны напротив Конаково)
-  img: gvt-3-1-toporok.jpg
-  link: https://yandex.ru/maps/-/CHQLzZOi
+  id: p3a
+  img: p3a-toporok.jpg
+  links:
+    - https://yandex.ru/maps/-/CHQLzZOi
 
 - coords: 56.695921, 36.732630
   title: 🚢 Переправа Зеленый Бор. В Конаково
-  img: gvt-3-2-zelbor.jpg
-  link: https://yandex.ru/maps/-/CHQLzZ9K
+  id: p3b
+  img: p3b-zelbor.jpg
+  links:
+    - https://yandex.ru/maps/-/CHQLzZ9K
 
 - coords: 56.705108, 36.749283
   title: Конаково. Сосновый бор и смотровая площадка
-  img: gvt-4-konakovo.jpg
-  link: https://yandex.ru/maps/-/CHQLzZYB
+  id: p4
+  img: p4-konakovo.jpg
+  links:
+    - https://yandex.ru/maps/-/CHQLzZYB
 
 - coords: 56.713778, 37.132807
   title: 🚢 Переправа через канал (Конаковский берег)
-  img: gvt-4-1-kanal.jpg
-  link: https://yandex.ru/maps/-/CHQLzKnn
+  id: p4a
+  img: p4a-kanal.jpg
+  links:
+    - https://yandex.ru/maps/-/CHQLzKnn
 
 - coords: 56.714377, 37.134082
   title: 🚢 Переправа через канал (Дубненский берег)
-  img: gvt-4-2-kanal.jpg
-  link: https://yandex.ru/maps/-/CHQLzKp9
+  id: p4b
+  img: p4b-kanal.jpg
+  links:
+    - https://yandex.ru/maps/-/CHQLzKp9
 
 - coords: 56.730965, 37.124717
   title: Дубна. Памятник В.И. Ленину
-  img: gvt-5-dubna.jpg
-  link: https://yandex.ru/maps/-/CHQ1vSkg
+  id: p5
+  img: p5-dubna.jpg
+  links:
+    - https://yandex.ru/maps/-/CHQ1vSkg
 
 - coords: 56.857229, 37.365838
   title: Кимры (Савелово). Песчаная набережная на стороне вокзала
-  img: gvt-6-kimry.jpg
-  link: https://yandex.ru/maps/-/CHQ1zR5U
+  id: p6
+  img: p6-kimry.jpg
+  links:
+    - https://yandex.ru/maps/-/CHQ1zR5U
 
 - coords: 57.241691, 37.855486
   title: Калязин. Смотровая площадка на набережной с видом на колокольню
-  img: gvt-7-kalyazin.jpg
-  link: https://yandex.ru/maps/-/CHQ1j8-m
+  id: p7
+  img: p7-kalyazin.jpg
+  links:
+    - https://yandex.ru/maps/-/CHQ1j8-m
 
 - coords: 57.530853, 38.320916
   title: Углич. Пристань на набережной
-  img: gvt-8-uglich.jpg
-  link: https://yandex.ru/maps/-/CHQ1j2Jx
+  id: p8
+  img: p8-uglich.jpg
+  links:
+    - https://yandex.ru/maps/-/CHQ1j2Jx
 
 - coords: 57.785985, 38.457988
   title: Мышкин. Пристань с торговыми рядами
-  img: gvt-9-myshkin.jpg
-  link: https://yandex.ru/maps/-/CHQ1nB5a
+  id: p9
+  img: p9-myshkin.jpg
+  links:
+    - https://yandex.ru/maps/-/CHQ1nB5a
 
 - coords: 57.986915, 38.424874
   title: 🚢 Переправа в Солнцево. На Мышкинской стороне
-  img: gvt-9-1-solntsevo.jpg
-  link: https://yandex.ru/maps/-/CHQ1nFPi
+  id: p9a
+  img: p9a-solntsevo.jpg
+  links:
+    - https://yandex.ru/maps/-/CHQ1nFPi
 
 - coords: 57.986355, 38.449303
   title: 🚢 Переправа в Глебово. Со стороны Рыбинска
-  img: gvt-9-2-glebovo.jpg
-  link: https://yandex.ru/maps/-/CHQ1nJOC
+  id: p9b
+  img: p9b-glebovo.jpg
+  links:
+    - https://yandex.ru/maps/-/CHQ1nJOC
 
 - coords: 58.050167, 38.854570
   title: Рыбинск. Пристань на набережной
-  img: gvt-10-rybinsk.jpg
-  link: https://yandex.ru/maps/-/CHQ1nN0A
+  id: p10
+  img: p10-rybinsk.jpg
+  links:
+    - https://yandex.ru/maps/-/CHQ1nN0A
 
 - coords: 57.880701, 39.535863
   title: Тутаев (Романовская сторона). Смотровая площадка храма и Волги (напротив дома Дмитриева с красивым видом на Казанскую-Преображенскую церковь)
-  img: gvt-11-tutayev.jpg
-  link: https://yandex.ru/maps/-/CHQ1nR5U
+  id: p11
+  img: p11-tutayev.jpg
+  links:
+    - https://yandex.ru/maps/-/CHQ1nR5U
 
 - coords: 57.621442, 39.904190
   title: Ярославль. Смотровая площадка на стрелке
-  img: gvt-12-yaroslavl.jpg
-  link: https://yandex.ru/maps/-/CHQ1nZIS
+  id: p12
+  img: p12-yaroslavl.jpg
+  links:
+    - https://yandex.ru/maps/-/CHQ1nZIS
 
 - coords: 57.462546, 40.572427
   title: Нерехта
-  img: gvt-12-1-nerehta.jpg
-  link: https://yandex.ru/maps/-/CHad7ClO
+  id: p12a
+  img: p12a-nerehta.jpg
+  links:
+    - https://yandex.ru/maps/-/CHad7ClO
 
 - coords: 57.767815, 40.926999
   title: Кострома. Сусанинская площадь в центре
-  img: gvt-13-kostroma.jpg
-  link: https://yandex.ru/maps/-/CHQ1nKoI
+  id: p13
+  img: p13-kostroma.jpg
+  links:
+    - https://yandex.ru/maps/-/CHQ1nKoI
 
 - coords: 57.494938, 41.233934
   title: 🚢 Переправа Красное на Волге. Пристань
-  img: gvt-13-1-krasnoe-pozhni.jpg
-  link: https://yandex.ru/maps/-/CHQ1n88Q
+  id: p13a
+  img: p13a-krasnoe-pozhni.jpg
+  links:
+    - https://yandex.ru/maps/-/CHQ1n88Q
 
 - coords: 57.486621, 41.234187
   title: Переправа Красные Пожни. Пристань
-  img: gvt-13-2-pozhni-ples.jpg
-  link: https://yandex.ru/maps/-/CHQ1n0Yf
+  id: p13b
+  img: p13b-pozhni-ples.jpg
+  links:
+    - https://yandex.ru/maps/-/CHQ1n0Yf
 
 - coords: 57.461264, 41.513416
   title: Плёс. Памятник Ф.И. Шаляпину на набережной
-  img: gvt-14-ples.jpg
-  link: https://yandex.ru/maps/-/CHQ1nD1I
+  id: p14
+  img: p14-ples.jpg
+  links:
+    - https://yandex.ru/maps/-/CHQ1nD1I
 
 - coords: 57.463015, 41.539350
   title: 🚢 Плёс. Пристань в Гравийном карьере. На другой стороне от Плеса
-  img: gvt-14-1-krasnoe-grav.jpg
-  link: https://yandex.ru/maps/-/CHQ1nHNV
+  id: p14b
+  img: p14b-krasnoe-grav.jpg
+  links:
+    - https://yandex.ru/maps/-/CHQ1nHNV
 
 - coords: 57.443752, 42.174053
   title: Кинешма. Смотровая площадка на стрелке
-  img: gvt-15-kineshma.jpg
-  link: https://yandex.ru/maps/-/CHQ1nSiE
+  id: p15
+  img: p15-kineshma.jpg
+  links:
+    - https://yandex.ru/maps/-/CHQ1nSiE
 
 - coords: 57.318713, 43.111136
   title: Юрьевец. Центральная площадь рядом с Георгиевской колокольней
-  img: gvt-16-yurevets.jpg
-  link: https://yandex.ru/maps/-/CHQ1nL6O
+  id: p16
+  img: p16-yurevets.jpg
+  links:
+    - https://yandex.ru/maps/-/CHQ1nL6O
 
 - coords: 56.641548, 43.464703
   title: Городец. Памятник Александру Невскому на смотровой площадке
-  img: gvt-17-gorodets.jpg
-  link: https://yandex.ru/maps/-/CHQ1rI7u
+  id: p17
+  img: p17-gorodets.jpg
+  links:
+    - https://yandex.ru/maps/-/CHQ1rI7u
 
 - coords: 56.330028, 44.009432
   title: Нижний Новгород. Чкаловская лестница рядом с Кремлем
-  img: gvt-18-nnovgorod.jpg
-  link: https://yandex.ru/maps/-/CHQ1rMmn
+  id: p18
+  img: p18-nnovgorod.jpg
+  links:
+    - https://yandex.ru/maps/-/CHQ1rMmn
 
