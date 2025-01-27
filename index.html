@@ -39,6 +39,7 @@
     <script>
 
         const railwayColor = 'DarkGoldenRod';
+        const widthCycleRoute = 4;
 
         window.config = window.config || {
             mapboxToken: 'pk.eyJ1IjoiYW5kcmV3bGV2aW4iLCJhIjoiY2t5ZXM5c3cyMWJxYjJvcGJycmw0dGlyeSJ9.9QfCmimkyYicpprraBc-XQ',
@@ -51,7 +52,8 @@
                 {
                     'path': 'gvt-0-ostashkov-volgoverkhovye.gpx',
                     'color': 'limegreen',
-                    'title': 'Осташков - Волговерховье - Осташков'
+                    'title': 'Осташков - Волговерховье - Осташков',
+                    'width': widthCycleRoute
                 }, {
                     'path': 'gvt-0.1-water-seliger.gpx',
                     'color': 'DeepSkyBlue',
@@ -60,52 +62,122 @@
                     'path': 'gvt-0.2-seliger-ostachkov.gpx',
                     'color': 'DeepPink',
                     'title': 'Вокруг Селигера от Нило-Столбенского монастыря - до Осташкова'
-                },
-
-                {'path': 'gvt-1-ostashkov-torzhok.gpx', 'color': 'red', 'title': 'Осташков - Торжок'},
-                {'path': 'gvt-2-torzhok-tver.gpx', 'color': 'yellow', 'title': 'Торжок - Тверь'},
-
-                {'path': 'gvt-3-tver-toporok.gpx', 'color': 'limegreen', 'title': 'Тверь - 🚢 Топорок'},
-                {'path': 'gvt-3.1-toporok-preprava-river.gpx', 'color': 'DeepSkyBlue', 'title': '🚢 Переправа Топорок - Зеленый Бор'},
-                {'path': 'gvt-3.2-zelbor-konakovo.gpx', 'color': 'red', 'title': '🚢 Зеленый Бор - Конаково'},
-
-                {'path': 'gvt-4-konakovo-kanal-konakovo.gpx', 'color': 'limegreen', 'title': 'Конаково - 🚢 Канал (со стороны Конаково)'},
-                {'path': 'gvt-4.1-kanal-river.gpx', 'color': 'DeepSkyBlue', 'title': '🚢 Переправа через канал им. Москвы'},
-                {'path': 'gvt-4.2-kanal-dubna.gpx', 'color': 'red', 'title': '🚢 Канал - Дубна'},
-
-                {'path': 'gvt-5-dubna-kimry.gpx', 'color': 'limegreen', 'title': 'Дубна - Кимры (Савелово)'},
-                {'path': 'gvt-6-kimry-kalyazin.gpx', 'color': 'red', 'title': 'Кимры (Савелово) - Калязин'},
-                {'path': 'gvt-7-kalyazin-uglich.gpx', 'color': 'limegreen', 'title': 'Калязин - Углич'},
-                {'path': 'gvt-8-uglich-myshkin.gpx', 'color': 'red', 'title': 'Углич - Мышкин'},
-
-                {'path': 'gvt-9-myshkin-solntsevo.gpx', 'color': 'limegreen', 'title': 'Мышкин - 🚢 Переправа в Солнцево'},
-                {'path': 'gvt-9.1-solntsevo-glebovo-river.gpx', 'color': 'DeepSkyBlue', 'title': '🚢 Переправа. Солнцево - Глебово'},
-                {'path': 'gvt-9.2-glebovo-rybinsk.gpx', 'color': 'red', 'title': '🚢 Глебово - Рыбинск'},
-
-                {'path': 'gvt-10-rybinsk-tutayev.gpx', 'color': 'limegreen', 'title': 'Рыбинск - Тутаев (Романовская сторона)'},
-                {'path': 'gvt-11-tutayev-yaroslavl.gpx', 'color': 'yellow', 'title': 'Тутаев (Романовская сторона) - Ярославль'},
-                {'path': 'gvt-12-yaroslavl-kostroma.gpx', 'color': 'red', 'title': 'Ярославль - Кострома'},
-                
-                {'path': 'gvt-12.1-nerehta-kostroma.gpx', 'color': 'yellow', 'title': 'Нерехта - Кострома'},
-
-
-                
-
-                {'path': 'gvt-13-kostroma-krasnoe.gpx', 'color': 'limegreen', 'limegreen': 'Кострома - 🚢 Красное на Волге'},
-                {'path': 'gvt-13.1-krasnoe-pozhni.gpx', 'color': 'DeepSkyBlue', 'title': '🚢 Переправа. Красное на Волге - Красные Пожни'},
-                {'path': 'gvt-13.2-pozhni-ples.gpx', 'color': 'red', 'title': '🚢 Красные Пожни - Плёс'},
-
-                {'path': 'gvt-13.3-krasnoe-grav.gpx', 'color': 'yellow', 'title': 'Красное на Волге - 🚢 Гравийный карьер'},
-                {'path': 'gvt-13.4-ples-river.gpx', 'color': 'DeepSkyBlue', 'title': '🚢 Переправа. Гравийный карьер - Плёс'},
-
-
-
-                {'path': 'gvt-14-grav-kineshma.gpx', 'color': 'limegreen', 'title': '🚢 Пристань Гравийный карьере - Кинешма'},
-                {'path': 'gvt-15-kineshma-yurevets.gpx', 'color': 'yellow', 'title': 'Кинешма - Юрьевец'},
-                {'path': 'gvt-16-yurevets-gorodets.gpx', 'color': 'limegreen', 'title': 'Юрьевец - Городец'},
-                {'path': 'gvt-17-gorodets-nnovgorod.gpx', 'color': 'red', 'title': 'Городец - Нижний Новгород'},
-
-                {
+                }, {
+                    'path': 'gvt-1-ostashkov-torzhok.gpx',
+                    'color': 'red',
+                    'title': 'Осташков - Торжок',
+                    'width': widthCycleRoute
+                }, {
+                    'path': 'gvt-2-torzhok-tver.gpx',
+                    'color': 'yellow',
+                    'title': 'Торжок - Тверь',
+                    'width': widthCycleRoute
+                }, {
+                    'path': 'gvt-3-tver-toporok.gpx',
+                    'color': 'limegreen',
+                    'title': 'Тверь - 🚢 Топорок',
+                    'width': widthCycleRoute
+                }, {
+                    'path': 'gvt-3.1-toporok-preprava-river.gpx',
+                    'color': 'DeepSkyBlue',
+                    'title': '🚢 Переправа Топорок - Зеленый Бор'
+                }, {
+                    'path': 'gvt-3.2-zelbor-konakovo.gpx',
+                    'color': 'red',
+                    'title': '🚢 Зеленый Бор - Конаково'
+                }, {
+                    'path': 'gvt-4-konakovo-kanal-konakovo.gpx',
+                    'color': 'limegreen',
+                    'title': 'Конаково - 🚢 Канал (со стороны Конаково)'
+                }, {
+                    'path': 'gvt-4.1-kanal-river.gpx',
+                    'color': 'DeepSkyBlue',
+                    'title': '🚢 Переправа через канал им. Москвы'
+                }, {
+                    'path': 'gvt-4.2-kanal-dubna.gpx',
+                    'color': 'red',
+                    'title': '🚢 Канал - Дубна'
+                }, {
+                    'path': 'gvt-5-dubna-kimry.gpx',
+                    'color': 'limegreen',
+                    'title': 'Дубна - Кимры (Савелово)'
+                }, {
+                    'path': 'gvt-6-kimry-kalyazin.gpx',
+                    'color': 'red',
+                    'title': 'Кимры (Савелово) - Калязин'
+                }, {
+                    'path': 'gvt-7-kalyazin-uglich.gpx',
+                    'color': 'limegreen',
+                    'title': 'Калязин - Углич'
+                }, {
+                    'path': 'gvt-8-uglich-myshkin.gpx',
+                    'color': 'red',
+                    'title': 'Углич - Мышкин'
+                }, {
+                    'path': 'gvt-9-myshkin-solntsevo.gpx',
+                    'color': 'limegreen',
+                    'title': 'Мышкин - 🚢 Переправа в Солнцево'
+                }, {
+                    'path': 'gvt-9.1-solntsevo-glebovo-river.gpx',
+                    'color': 'DeepSkyBlue',
+                    'title': '🚢 Переправа. Солнцево - Глебово'
+                }, {
+                    'path': 'gvt-9.2-glebovo-rybinsk.gpx',
+                    'color': 'red',
+                    'title': '🚢 Глебово - Рыбинск'
+                }, {
+                    'path': 'gvt-10-rybinsk-tutayev.gpx',
+                    'color': 'limegreen',
+                    'title': 'Рыбинск - Тутаев (Романовская сторона)'
+                }, {
+                    'path': 'gvt-11-tutayev-yaroslavl.gpx',
+                    'color': 'yellow',
+                    'title': 'Тутаев (Романовская сторона) - Ярославль'
+                }, {
+                    'path': 'gvt-12-yaroslavl-kostroma.gpx',
+                    'color': 'red',
+                    'title': 'Ярославль - Кострома'
+                }, {
+                    'path': 'gvt-12.1-nerehta-kostroma.gpx',
+                    'color': 'yellow',
+                    'title': 'Нерехта - Кострома'
+                }, {
+                    'path': 'gvt-13-kostroma-krasnoe.gpx',
+                    'color': 'limegreen',
+                    'limegreen': 'Кострома - 🚢 Красное на Волге'
+                }, {
+                    'path': 'gvt-13.1-krasnoe-pozhni.gpx',
+                    'color': 'DeepSkyBlue',
+                    'title': '🚢 Переправа. Красное на Волге - Красные Пожни'
+                }, {
+                    'path': 'gvt-13.2-pozhni-ples.gpx',
+                    'color': 'red',
+                    'title': '🚢 Красные Пожни - Плёс'
+                }, {
+                    'path': 'gvt-13.3-krasnoe-grav.gpx',
+                    'color': 'yellow',
+                    'title': 'Красное на Волге - 🚢 Гравийный карьер'
+                }, {
+                    'path': 'gvt-13.4-ples-river.gpx',
+                    'color': 'DeepSkyBlue',
+                    'title': '🚢 Переправа. Гравийный карьер - Плёс'
+                }, {
+                    'path': 'gvt-14-grav-kineshma.gpx',
+                    'color': 'limegreen',
+                    'title': '🚢 Пристань Гравийный карьере - Кинешма'
+                }, {
+                    'path': 'gvt-15-kineshma-yurevets.gpx',
+                    'color': 'yellow',
+                    'title': 'Кинешма - Юрьевец'
+                }, {
+                    'path': 'gvt-16-yurevets-gorodets.gpx',
+                    'color': 'limegreen',
+                    'title': 'Юрьевец - Городец'
+                }, {
+                    'path': 'gvt-17-gorodets-nnovgorod.gpx',
+                    'color': 'red',
+                    'title': 'Городец - Нижний Новгород'
+                }, {
                     'path': 'rw-ostashkov-kuvchinovo.gpx',
                     'color': railwayColor,
                     'title': '🚂 Осташков - Кувшиново'
