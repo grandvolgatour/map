@@ -10,51 +10,27 @@
   <trk>
     <name>New file 1</name>
     <trkseg>
-      <trkpt lat="57.241707" lon="37.855445">
-        <ele>114.25</ele>
+      <trkpt lat="57.241607" lon="37.855393">
+        <ele>115.25</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
               <highway>footway</highway>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.241664" lon="37.8556">
-        <ele>114</ele>
+      <trkpt lat="57.241617" lon="37.855279">
+        <ele>115.75</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
               <highway>footway</highway>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.241592" lon="37.855579">
-        <ele>114.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>footway</highway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.240647" lon="37.855313">
-        <ele>120.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>footway</highway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.240513" lon="37.855275">
+      <trkpt lat="57.240672" lon="37.855012">
         <ele>121</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
@@ -64,13 +40,67 @@
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.240461" lon="37.85526">
+      <trkpt lat="57.240559" lon="37.85498">
+        <ele>121.25</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>footway</highway>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.24056" lon="37.854965">
         <ele>121.25</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
-              <highway>residential</highway>
+              <highway>footway</highway>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.240563" lon="37.854932">
+        <ele>121</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>footway</highway>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.240533" lon="37.854924">
+        <ele>121.25</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>footway</highway>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.240495" lon="37.854913">
+        <ele>121.25</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>tertiary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>3</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.240487" lon="37.855006">
+        <ele>121.25</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>tertiary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -84,6 +114,7 @@
               <highway>tertiary</highway>
               <surface>asphalt</surface>
               <oneway>no</oneway>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -97,6 +128,7 @@
               <highway>tertiary</highway>
               <surface>asphalt</surface>
               <oneway>no</oneway>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -110,6 +142,7 @@
               <highway>tertiary</highway>
               <surface>asphalt</surface>
               <oneway>no</oneway>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -123,6 +156,7 @@
               <highway>tertiary</highway>
               <surface>asphalt</surface>
               <oneway>no</oneway>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -136,6 +170,7 @@
               <highway>tertiary</highway>
               <surface>asphalt</surface>
               <oneway>no</oneway>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -149,6 +184,7 @@
               <highway>tertiary</highway>
               <surface>asphalt</surface>
               <oneway>no</oneway>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -162,6 +198,7 @@
               <highway>tertiary</highway>
               <surface>asphalt</surface>
               <oneway>no</oneway>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -175,6 +212,7 @@
               <highway>tertiary</highway>
               <surface>asphalt</surface>
               <oneway>no</oneway>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -186,6 +224,7 @@
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -197,6 +236,7 @@
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -208,6 +248,7 @@
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -219,6 +260,7 @@
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -230,6 +272,7 @@
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -241,6 +284,7 @@
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -252,6 +296,7 @@
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -263,6 +308,7 @@
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -274,6 +320,7 @@
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -285,6 +332,7 @@
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -296,6 +344,7 @@
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -307,6 +356,7 @@
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
+              <estimated_traffic_class>4</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -319,6 +369,7 @@
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>4</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -331,6 +382,7 @@
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>4</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -343,6 +395,7 @@
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>4</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -355,6 +408,7 @@
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>4</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -367,6 +421,7 @@
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>4</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -379,6 +434,7 @@
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>4</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -391,6 +447,7 @@
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>4</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -402,6 +459,7 @@
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -413,6 +471,7 @@
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -424,6 +483,7 @@
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -435,6 +495,7 @@
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -446,6 +507,7 @@
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -457,6 +519,7 @@
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -468,6 +531,7 @@
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -479,6 +543,7 @@
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -490,6 +555,7 @@
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -501,6 +567,7 @@
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -512,6 +579,7 @@
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -523,6 +591,7 @@
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -534,6 +603,7 @@
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -545,6 +615,7 @@
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -556,6 +627,7 @@
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
+              <estimated_traffic_class>2</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -567,6 +639,7 @@
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
+              <estimated_traffic_class>2</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -578,6 +651,7 @@
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
+              <estimated_traffic_class>2</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -589,6 +663,7 @@
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
+              <estimated_traffic_class>2</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -600,6 +675,7 @@
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
+              <estimated_traffic_class>2</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -611,6 +687,7 @@
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
+              <estimated_traffic_class>2</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -622,6 +699,7 @@
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
+              <estimated_traffic_class>2</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -633,6 +711,7 @@
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
+              <estimated_traffic_class>2</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -644,6 +723,7 @@
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
+              <estimated_traffic_class>2</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -655,6 +735,7 @@
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
+              <estimated_traffic_class>2</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -666,6 +747,7 @@
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
+              <estimated_traffic_class>2</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -677,6 +759,7 @@
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
+              <estimated_traffic_class>2</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -688,6 +771,7 @@
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
+              <estimated_traffic_class>2</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -699,6 +783,7 @@
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
+              <estimated_traffic_class>2</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -710,6 +795,7 @@
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
+              <estimated_traffic_class>2</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -721,6 +807,7 @@
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
+              <estimated_traffic_class>2</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -732,6 +819,7 @@
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
+              <estimated_traffic_class>2</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -744,6 +832,7 @@
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -756,6 +845,7 @@
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -768,6 +858,7 @@
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -780,6 +871,7 @@
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -792,6 +884,7 @@
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -804,6 +897,7 @@
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -816,6 +910,7 @@
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -828,6 +923,7 @@
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -840,6 +936,7 @@
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -852,6 +949,7 @@
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -864,6 +962,7 @@
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -876,6 +975,7 @@
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -888,6 +988,7 @@
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -900,6 +1001,7 @@
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -912,6 +1014,7 @@
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -924,6 +1027,7 @@
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -936,6 +1040,7 @@
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -948,6 +1053,7 @@
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -960,6 +1066,7 @@
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -972,6 +1079,7 @@
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -984,6 +1092,7 @@
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -996,6 +1105,7 @@
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1008,6 +1118,7 @@
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1020,6 +1131,7 @@
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1032,6 +1144,7 @@
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1044,6 +1157,7 @@
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1056,6 +1170,7 @@
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1068,6 +1183,7 @@
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1080,6 +1196,7 @@
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1092,6 +1209,7 @@
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1104,6 +1222,7 @@
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1116,6 +1235,7 @@
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1128,6 +1248,7 @@
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1140,6 +1261,7 @@
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1152,6 +1274,7 @@
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1164,6 +1287,7 @@
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1176,6 +1300,7 @@
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1188,6 +1313,7 @@
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1200,6 +1326,7 @@
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1212,6 +1339,7 @@
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1224,6 +1352,7 @@
               <reversedirection>yes</reversedirection>
               <highway>secondary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1235,6 +1364,19 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.24061" lon="37.941032">
+        <ele>137</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1246,6 +1388,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1257,6 +1400,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1268,6 +1412,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1279,6 +1424,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1290,6 +1436,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1301,6 +1448,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1312,6 +1460,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1323,6 +1472,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1334,6 +1484,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1345,6 +1496,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1356,6 +1508,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1367,6 +1520,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1378,6 +1532,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1389,6 +1544,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1400,6 +1556,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1411,6 +1568,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1422,6 +1580,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1433,6 +1592,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1444,6 +1604,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1455,6 +1616,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1466,6 +1628,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1477,6 +1640,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1488,6 +1652,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1499,6 +1664,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1510,6 +1676,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1521,6 +1688,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1532,6 +1700,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1543,6 +1712,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1554,6 +1724,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1565,6 +1736,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1576,6 +1748,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1587,6 +1760,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1598,6 +1772,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1609,6 +1784,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1620,6 +1796,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1631,6 +1808,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1642,6 +1820,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1653,6 +1832,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1664,6 +1844,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1675,6 +1856,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1686,6 +1868,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1697,6 +1880,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1708,6 +1892,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1719,6 +1904,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1730,6 +1916,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1741,6 +1928,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1752,6 +1940,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1763,6 +1952,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1774,6 +1964,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1785,6 +1976,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1796,6 +1988,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1807,6 +2000,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1816,140 +2010,256 @@
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <highway>primary</highway>
-              <surface>asphalt</surface>
+              <highway>unclassified</highway>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.305387" lon="38.21953">
-        <ele>143.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>primary</highway>
-              <surface>asphalt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.305504" lon="38.219762">
+      <trkpt lat="57.305382" lon="38.21981">
         <ele>143.5</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <highway>primary</highway>
-              <surface>asphalt</surface>
+              <highway>unclassified</highway>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.305737" lon="38.220222">
-        <ele>143.75</ele>
+      <trkpt lat="57.305463" lon="38.220483">
+        <ele>144</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <highway>primary</highway>
-              <surface>asphalt</surface>
+              <highway>unclassified</highway>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.306251" lon="38.22113">
+      <trkpt lat="57.305501" lon="38.221021">
         <ele>144.5</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <highway>primary</highway>
-              <surface>asphalt</surface>
+              <highway>unclassified</highway>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.306574" lon="38.221669">
-        <ele>144.75</ele>
+      <trkpt lat="57.30553" lon="38.221431">
+        <ele>145.25</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <highway>primary</highway>
-              <surface>asphalt</surface>
+              <highway>unclassified</highway>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.306999" lon="38.222267">
-        <ele>144.25</ele>
+      <trkpt lat="57.305547" lon="38.221665">
+        <ele>145.5</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <highway>primary</highway>
-              <surface>asphalt</surface>
+              <highway>unclassified</highway>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.307325" lon="38.222698">
-        <ele>143.5</ele>
+      <trkpt lat="57.305641" lon="38.223498">
+        <ele>144</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <highway>primary</highway>
-              <surface>asphalt</surface>
+              <highway>unclassified</highway>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.307622" lon="38.22303">
-        <ele>142.75</ele>
+      <trkpt lat="57.305663" lon="38.224163">
+        <ele>142.25</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <highway>primary</highway>
-              <surface>asphalt</surface>
+              <highway>unclassified</highway>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.308117" lon="38.223546">
-        <ele>142</ele>
+      <trkpt lat="57.305669" lon="38.224902">
+        <ele>140.25</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <highway>primary</highway>
-              <surface>asphalt</surface>
+              <reversedirection>yes</reversedirection>
+              <highway>residential</highway>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.309036" lon="38.22433">
-        <ele>140.5</ele>
+      <trkpt lat="57.306315" lon="38.224949">
+        <ele>139.5</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <highway>primary</highway>
-              <surface>asphalt</surface>
+              <reversedirection>yes</reversedirection>
+              <highway>residential</highway>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.30955" lon="38.224773">
-        <ele>140</ele>
+      <trkpt lat="57.306544" lon="38.224985">
+        <ele>139</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <highway>primary</highway>
-              <surface>asphalt</surface>
+              <reversedirection>yes</reversedirection>
+              <highway>residential</highway>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.312963" lon="38.227713">
-        <ele>141.75</ele>
+      <trkpt lat="57.307397" lon="38.225058">
+        <ele>137.75</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <highway>primary</highway>
-              <surface>asphalt</surface>
+              <reversedirection>yes</reversedirection>
+              <highway>residential</highway>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.307902" lon="38.225113">
+        <ele>137.75</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>residential</highway>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.308152" lon="38.225179">
+        <ele>137.75</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>residential</highway>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.30833" lon="38.225276">
+        <ele>137.5</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>residential</highway>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.308619" lon="38.225556">
+        <ele>136.5</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>residential</highway>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.309503" lon="38.226473">
+        <ele>134.5</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>track</highway>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.309498" lon="38.226526">
+        <ele>134.25</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>track</highway>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.309529" lon="38.226584">
+        <ele>134</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>track</highway>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.309879" lon="38.227164">
+        <ele>134</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>track</highway>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.310233" lon="38.227712">
+        <ele>134</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>track</highway>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.310409" lon="38.228036">
+        <ele>133.5</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>track</highway>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.311171" lon="38.229379">
+        <ele>134.75</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>track</highway>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.311494" lon="38.230212">
+        <ele>135.25</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>track</highway>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.311928" lon="38.230888">
+        <ele>135.5</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>service</highway>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1961,6 +2271,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1972,6 +2283,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1983,6 +2295,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -1994,6 +2307,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -2005,6 +2319,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -2016,6 +2331,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -2027,6 +2343,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -2038,6 +2355,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -2049,6 +2367,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -2060,6 +2379,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -2071,6 +2391,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -2082,6 +2403,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -2093,6 +2415,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -2104,6 +2427,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -2115,6 +2439,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -2126,6 +2451,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -2137,6 +2463,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -2148,6 +2475,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -2159,6 +2487,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -2170,6 +2499,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -2181,6 +2511,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -2192,6 +2523,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -2203,6 +2535,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -2214,6 +2547,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -2225,6 +2559,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -2236,6 +2571,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -2247,6 +2583,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -2258,6 +2595,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -2269,6 +2607,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -2280,6 +2619,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -2291,6 +2631,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -2302,6 +2643,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -2313,6 +2655,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -2325,6 +2668,7 @@
               <reversedirection>yes</reversedirection>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -2337,6 +2681,7 @@
               <reversedirection>yes</reversedirection>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -2349,6 +2694,7 @@
               <reversedirection>yes</reversedirection>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -2361,6 +2707,7 @@
               <reversedirection>yes</reversedirection>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -2373,6 +2720,7 @@
               <reversedirection>yes</reversedirection>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -2385,6 +2733,7 @@
               <reversedirection>yes</reversedirection>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -2395,1629 +2744,1317 @@
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>compacted</surface>
-              <smoothness>bad</smoothness>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.39199" lon="38.275087">
-        <ele>152.75</ele>
+      <trkpt lat="57.393642" lon="38.277353">
+        <ele>150.75</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>compacted</surface>
-              <smoothness>bad</smoothness>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.392365" lon="38.274596">
-        <ele>152.75</ele>
+      <trkpt lat="57.396254" lon="38.280218">
+        <ele>150.75</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>compacted</surface>
-              <smoothness>bad</smoothness>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.392582" lon="38.274255">
-        <ele>152</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>compacted</surface>
-              <smoothness>bad</smoothness>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.392744" lon="38.273921">
-        <ele>151.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>compacted</surface>
-              <smoothness>bad</smoothness>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.393007" lon="38.273148">
+      <trkpt lat="57.40153" lon="38.286338">
         <ele>148.5</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>compacted</surface>
-              <smoothness>bad</smoothness>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.393224" lon="38.272536">
+      <trkpt lat="57.402913" lon="38.287943">
+        <ele>151.5</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.407444" lon="38.29323">
+        <ele>151</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.41265" lon="38.299399">
+        <ele>148.5</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.41418" lon="38.301212">
+        <ele>151.25</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.421853" lon="38.310225">
+        <ele>149</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.426773" lon="38.315897">
         <ele>145.75</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>compacted</surface>
-              <smoothness>bad</smoothness>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.393812" lon="38.270938">
-        <ele>141.25</ele>
+      <trkpt lat="57.427378" lon="38.316594">
+        <ele>145</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>compacted</surface>
-              <smoothness>bad</smoothness>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.393999" lon="38.270256">
-        <ele>141</ele>
+      <trkpt lat="57.427992" lon="38.317301">
+        <ele>147.25</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
-              <highway>unclassified</highway>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.395855" lon="38.270626">
-        <ele>136</ele>
+      <trkpt lat="57.430415" lon="38.320095">
+        <ele>149.5</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
-              <highway>unclassified</highway>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.396761" lon="38.270704">
-        <ele>137</ele>
+      <trkpt lat="57.434647" lon="38.324824">
+        <ele>149.5</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
-              <highway>unclassified</highway>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.397483" lon="38.27092">
-        <ele>140.25</ele>
+      <trkpt lat="57.439496" lon="38.329985">
+        <ele>145.5</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
-              <highway>unclassified</highway>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.397932" lon="38.270882">
-        <ele>141.25</ele>
+      <trkpt lat="57.43993" lon="38.330447">
+        <ele>145</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
-              <highway>unclassified</highway>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.398934" lon="38.270437">
-        <ele>140.25</ele>
+      <trkpt lat="57.440017" lon="38.330539">
+        <ele>145</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
-              <highway>unclassified</highway>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.399851" lon="38.269912">
-        <ele>138.75</ele>
+      <trkpt lat="57.440698" lon="38.331264">
+        <ele>148.25</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
-              <highway>unclassified</highway>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.400899" lon="38.269328">
-        <ele>137.25</ele>
+      <trkpt lat="57.442256" lon="38.332918">
+        <ele>149.25</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
-              <highway>unclassified</highway>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.401191" lon="38.269091">
-        <ele>137.25</ele>
+      <trkpt lat="57.454155" lon="38.345533">
+        <ele>146.75</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
-              <highway>unclassified</highway>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.401985" lon="38.268079">
-        <ele>138.5</ele>
+      <trkpt lat="57.459432" lon="38.351134">
+        <ele>149.75</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
-              <highway>unclassified</highway>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.40292" lon="38.266631">
+      <trkpt lat="57.467328" lon="38.359526">
+        <ele>146.5</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.472963" lon="38.365473">
+        <ele>142.5</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.476674" lon="38.369392">
+        <ele>137.75</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.478828" lon="38.371725">
+        <ele>135.75</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>1</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.479025" lon="38.372115">
         <ele>136.25</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
-              <highway>unclassified</highway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.403812" lon="38.265224">
-        <ele>134.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>unclassified</highway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.404589" lon="38.264462">
-        <ele>136.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>unclassified</highway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.405286" lon="38.263957">
-        <ele>137.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>unclassified</highway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.406187" lon="38.263434">
-        <ele>137</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>unclassified</highway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.406984" lon="38.262778">
-        <ele>135.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>unclassified</highway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.407598" lon="38.262566">
-        <ele>131.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>unclassified</highway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.408329" lon="38.262205">
-        <ele>128</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>unclassified</highway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.409469" lon="38.261739">
-        <ele>126.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>unclassified</highway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.410147" lon="38.261683">
-        <ele>126.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>unclassified</highway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.410492" lon="38.261684">
-        <ele>127</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>unclassified</highway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.413884" lon="38.261799">
-        <ele>130</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>unclassified</highway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.421682" lon="38.246169">
-        <ele>120.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
+              <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.422079" lon="38.247482">
-        <ele>118.5</ele>
+      <trkpt lat="57.47969" lon="38.371588">
+        <ele>136.75</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
+              <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.422616" lon="38.249363">
-        <ele>120.5</ele>
+      <trkpt lat="57.480203" lon="38.371123">
+        <ele>138</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
+              <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.423006" lon="38.25042">
-        <ele>122.75</ele>
+      <trkpt lat="57.480219" lon="38.371104">
+        <ele>138</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
+              <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.423479" lon="38.251482">
-        <ele>124.5</ele>
+      <trkpt lat="57.480542" lon="38.370731">
+        <ele>138.75</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
+              <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.423748" lon="38.252153">
-        <ele>125</ele>
+      <trkpt lat="57.480931" lon="38.370222">
+        <ele>138.75</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
+              <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.423832" lon="38.252611">
-        <ele>124.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.424824" lon="38.260992">
-        <ele>127.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.425314" lon="38.263052">
-        <ele>127</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.426271" lon="38.266194">
-        <ele>127.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.426751" lon="38.26768">
-        <ele>127.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.427013" lon="38.268237">
-        <ele>127.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.427135" lon="38.268494">
-        <ele>127.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.429537" lon="38.270777">
-        <ele>129.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.432217" lon="38.273755">
-        <ele>130.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.435821" lon="38.278622">
+      <trkpt lat="57.481409" lon="38.369518">
         <ele>137.25</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
+              <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.436865" lon="38.279643">
-        <ele>141.25</ele>
+      <trkpt lat="57.481743" lon="38.368995">
+        <ele>137</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
+              <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.438777" lon="38.280673">
-        <ele>143</ele>
+      <trkpt lat="57.482046" lon="38.368507">
+        <ele>136.25</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
+              <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.447232" lon="38.283805">
-        <ele>133.5</ele>
+      <trkpt lat="57.482256" lon="38.368158">
+        <ele>135.25</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
+              <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.450481" lon="38.285156">
-        <ele>129.5</ele>
+      <trkpt lat="57.482587" lon="38.367546">
+        <ele>134.75</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
+              <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.450773" lon="38.285335">
-        <ele>129.75</ele>
+      <trkpt lat="57.482834" lon="38.367038">
+        <ele>135.25</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
+              <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.451231" lon="38.285615">
-        <ele>131.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.452947" lon="38.286667">
-        <ele>135.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.453621" lon="38.287176">
-        <ele>136</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.453973" lon="38.287346">
-        <ele>135.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.454227" lon="38.287373">
-        <ele>135.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.45453" lon="38.287375">
+      <trkpt lat="57.483041" lon="38.366589">
         <ele>135</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
+              <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.45537" lon="38.287433">
-        <ele>134.25</ele>
+      <trkpt lat="57.483295" lon="38.366014">
+        <ele>135.5</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
+              <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.455947" lon="38.287537">
-        <ele>134</ele>
+      <trkpt lat="57.484218" lon="38.363905">
+        <ele>137.25</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
+              <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.456343" lon="38.287742">
-        <ele>134.25</ele>
+      <trkpt lat="57.48523" lon="38.361543">
+        <ele>137.5</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
+              <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.463377" lon="38.293488">
-        <ele>127.25</ele>
+      <trkpt lat="57.486329" lon="38.359047">
+        <ele>139.5</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
+              <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.466594" lon="38.295714">
-        <ele>130</ele>
+      <trkpt lat="57.487181" lon="38.357085">
+        <ele>138.75</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
+              <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.46688" lon="38.295911">
-        <ele>129.25</ele>
+      <trkpt lat="57.487436" lon="38.356543">
+        <ele>138.25</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
+              <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.470328" lon="38.297839">
-        <ele>133.75</ele>
+      <trkpt lat="57.487552" lon="38.356364">
+        <ele>138.5</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
+              <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>3</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.473742" lon="38.299439">
+      <trkpt lat="57.487666" lon="38.356206">
+        <ele>138.75</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>3</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.487759" lon="38.356102">
+        <ele>139</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>3</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.488138" lon="38.355805">
+        <ele>139</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>3</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.488737" lon="38.355358">
+        <ele>140.25</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>3</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.491253" lon="38.353532">
+        <ele>137.5</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>3</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.493704" lon="38.351784">
+        <ele>141.5</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>3</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.495292" lon="38.351158">
+        <ele>141.75</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>3</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.496521" lon="38.350673">
+        <ele>142.5</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>3</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.498922" lon="38.349485">
+        <ele>139.75</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>3</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.501606" lon="38.348157">
+        <ele>139.75</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>3</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.502758" lon="38.347458">
+        <ele>138.75</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>3</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.503052" lon="38.347265">
+        <ele>139</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>3</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.503369" lon="38.347057">
+        <ele>139.5</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>3</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.504541" lon="38.346289">
+        <ele>141</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>4</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.505496" lon="38.345632">
+        <ele>140.75</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>4</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.505653" lon="38.345483">
+        <ele>140.5</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>4</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.505934" lon="38.345204">
+        <ele>139.75</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>4</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.506213" lon="38.344927">
+        <ele>139.25</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>4</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.508876" lon="38.341895">
+        <ele>141.25</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>4</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.509217" lon="38.341389">
+        <ele>141.5</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>4</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.510879" lon="38.338919">
+        <ele>139.75</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>4</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.511675" lon="38.337651">
+        <ele>138.75</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>4</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.51199" lon="38.337147">
+        <ele>136.5</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>4</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.512308" lon="38.336618">
+        <ele>133.5</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>4</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.512583" lon="38.336149">
+        <ele>131</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>4</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.513689" lon="38.33427">
         <ele>129.75</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
+              <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>4</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.473926" lon="38.299502">
-        <ele>129.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.474058" lon="38.299529">
-        <ele>129.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.474208" lon="38.299537">
-        <ele>128.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.47525" lon="38.299442">
-        <ele>123.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.47667" lon="38.299385">
-        <ele>115</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.476773" lon="38.299392">
-        <ele>114.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.477108" lon="38.299452">
-        <ele>113</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.477644" lon="38.299595">
-        <ele>111.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.477835" lon="38.299671">
-        <ele>112</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.478081" lon="38.299818">
-        <ele>112.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.478208" lon="38.299916">
-        <ele>112.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.47855" lon="38.30018">
-        <ele>114.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.478787" lon="38.300363">
-        <ele>115.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.480026" lon="38.301459">
-        <ele>120.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.48079" lon="38.301968">
-        <ele>121.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.481801" lon="38.302197">
-        <ele>125</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.482279" lon="38.302362">
-        <ele>125</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.482669" lon="38.302543">
-        <ele>125.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.482812" lon="38.302588">
-        <ele>125.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.485121" lon="38.303784">
-        <ele>128.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.485236" lon="38.303848">
-        <ele>128.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.486479" lon="38.304543">
-        <ele>129.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.48836" lon="38.305835">
+      <trkpt lat="57.514143" lon="38.333499">
         <ele>130</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
+              <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>4</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.490701" lon="38.30742">
+      <trkpt lat="57.514216" lon="38.333375">
+        <ele>129.75</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>4</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.514866" lon="38.332272">
         <ele>128</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
+              <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>4</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.491547" lon="38.307993">
-        <ele>128.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.492912" lon="38.308918">
-        <ele>129.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.494468" lon="38.309512">
-        <ele>128.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-              <oneway>no</oneway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.49551" lon="38.309928">
-        <ele>131.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-              <oneway>no</oneway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.496457" lon="38.309945">
-        <ele>132.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-              <oneway>no</oneway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.498045" lon="38.309699">
-        <ele>132.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-              <oneway>no</oneway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.500193" lon="38.309365">
-        <ele>123.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-              <oneway>no</oneway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.500359" lon="38.309339">
-        <ele>123.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-              <oneway>no</oneway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.501353" lon="38.309183">
-        <ele>125</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-              <oneway>no</oneway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.501788" lon="38.309114">
-        <ele>125</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-              <oneway>no</oneway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.502453" lon="38.309014">
-        <ele>125.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-              <oneway>no</oneway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.503051" lon="38.308957">
-        <ele>125.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-              <oneway>no</oneway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.503451" lon="38.309059">
-        <ele>126</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-              <oneway>no</oneway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.505036" lon="38.309663">
-        <ele>126.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-              <oneway>no</oneway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.506705" lon="38.310278">
-        <ele>128.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-              <oneway>no</oneway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.507652" lon="38.310536">
-        <ele>127</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-              <oneway>no</oneway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.509025" lon="38.310632">
-        <ele>125</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-              <oneway>no</oneway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.510469" lon="38.310657">
-        <ele>128</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-              <oneway>no</oneway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.5121" lon="38.31087">
-        <ele>128</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-              <oneway>no</oneway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.512268" lon="38.310913">
-        <ele>127.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-              <oneway>no</oneway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.513207" lon="38.311589">
-        <ele>125.25</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-              <oneway>no</oneway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.513659" lon="38.311917">
-        <ele>125</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-              <oneway>no</oneway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.513837" lon="38.312051">
-        <ele>125</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-              <surface>asphalt</surface>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.51432" lon="38.312392">
+      <trkpt lat="57.515853" lon="38.33065">
         <ele>124.75</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
+              <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>4</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.514805" lon="38.312741">
+      <trkpt lat="57.516114" lon="38.330272">
+        <ele>125</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>4</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.516988" lon="38.328922">
+        <ele>126.25</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>4</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.517872" lon="38.327503">
+        <ele>127.5</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>4</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.517977" lon="38.327351">
+        <ele>127.25</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>4</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.518019" lon="38.327292">
+        <ele>127.25</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>5</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.518073" lon="38.327232">
+        <ele>127.25</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>5</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.51934" lon="38.32605">
         <ele>124.5</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
+              <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>5</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.515756" lon="38.313401">
-        <ele>125.75</ele>
+      <trkpt lat="57.519491" lon="38.325909">
+        <ele>124.5</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
+              <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>5</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.516545" lon="38.313934">
-        <ele>125.25</ele>
+      <trkpt lat="57.519551" lon="38.325854">
+        <ele>124.5</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
+              <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>5</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.516898" lon="38.314082">
-        <ele>124</ele>
+      <trkpt lat="57.51959" lon="38.325817">
+        <ele>124.25</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <highway>tertiary</highway>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>5</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.517465" lon="38.31415">
-        <ele>122</ele>
+      <trkpt lat="57.522007" lon="38.323595">
+        <ele>120.5</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <highway>tertiary</highway>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>5</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.518999" lon="38.314304">
-        <ele>117.5</ele>
+      <trkpt lat="57.522337" lon="38.323303">
+        <ele>120</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <highway>tertiary</highway>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>5</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.520597" lon="38.314466">
-        <ele>114.25</ele>
+      <trkpt lat="57.522347" lon="38.323293">
+        <ele>120</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <highway>tertiary</highway>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>5</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.521605" lon="38.314604">
-        <ele>115</ele>
+      <trkpt lat="57.522508" lon="38.323152">
+        <ele>120</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <highway>tertiary</highway>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>5</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.522111" lon="38.314665">
-        <ele>113.5</ele>
+      <trkpt lat="57.522616" lon="38.323055">
+        <ele>119.75</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <highway>tertiary</highway>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>5</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.523464" lon="38.314815">
-        <ele>110.75</ele>
+      <trkpt lat="57.522779" lon="38.322909">
+        <ele>119.5</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <highway>tertiary</highway>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>5</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.523633" lon="38.314861">
-        <ele>110.75</ele>
+      <trkpt lat="57.523038" lon="38.322677">
+        <ele>119.5</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <highway>tertiary</highway>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>5</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.524736" lon="38.314971">
+      <trkpt lat="57.523818" lon="38.321957">
+        <ele>119</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>5</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.523915" lon="38.321871">
+        <ele>118.5</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>residential</highway>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.523944" lon="38.321958">
+        <ele>118.25</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>residential</highway>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.523915" lon="38.321871">
+        <ele>118.5</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>5</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.524012" lon="38.321779">
+        <ele>118</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>5</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.524999" lon="38.320875">
+        <ele>113.25</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>5</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.525173" lon="38.320717">
+        <ele>112.5</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>5</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.525701" lon="38.320235">
         <ele>110.25</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <highway>tertiary</highway>
+              <reversedirection>yes</reversedirection>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>5</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.524916" lon="38.314989">
-        <ele>110</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>tertiary</highway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.52519" lon="38.315016">
-        <ele>110</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>tertiary</highway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.525552" lon="38.315052">
-        <ele>110.5</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>tertiary</highway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.52593" lon="38.315097">
-        <ele>110.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>tertiary</highway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.526361" lon="38.315142">
-        <ele>110.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <highway>tertiary</highway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.526461" lon="38.315152">
-        <ele>110.75</ele>
+      <trkpt lat="57.525767" lon="38.320176">
+        <ele>110.25</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>5</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.526445" lon="38.315362">
-        <ele>110.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.526338" lon="38.316795">
+      <trkpt lat="57.526176" lon="38.319809">
         <ele>109</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
               <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.526256" lon="38.318035">
-        <ele>109</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.526254" lon="38.318578">
-        <ele>109</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.526249" lon="38.318751">
-        <ele>108.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.526268" lon="38.319083">
-        <ele>109</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
-            </gpxtpx:Extensions>
-          </gpxtpx:TrackPointExtension>
-        </extensions>
-      </trkpt>
-      <trkpt lat="57.526294" lon="38.319408">
-        <ele>108.75</ele>
-        <extensions>
-          <gpxtpx:TrackPointExtension>
-            <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>tertiary</highway>
+              <highway>primary</highway>
+              <surface>asphalt</surface>
+              <estimated_traffic_class>5</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -4030,6 +4067,28 @@
               <reversedirection>yes</reversedirection>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>5</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.526361" lon="38.319916">
+        <ele>108.75</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>footway</highway>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.52632" lon="38.319958">
+        <ele>108.75</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>footway</highway>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -4042,6 +4101,7 @@
               <reversedirection>yes</reversedirection>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>5</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -4054,6 +4114,7 @@
               <reversedirection>yes</reversedirection>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>5</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -4066,6 +4127,7 @@
               <reversedirection>yes</reversedirection>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>5</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -4078,6 +4140,7 @@
               <reversedirection>yes</reversedirection>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>5</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -4089,6 +4152,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>5</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -4100,6 +4164,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>5</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -4111,6 +4176,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>5</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -4122,6 +4188,28 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>5</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.52698" lon="38.321402">
+        <ele>110.25</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>footway</highway>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.526921" lon="38.321535">
+        <ele>110</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>footway</highway>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -4133,6 +4221,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>5</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -4144,6 +4233,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>5</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -4155,6 +4245,7 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>5</estimated_traffic_class>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -4166,6 +4257,28 @@
             <gpxtpx:Extensions>
               <highway>primary</highway>
               <surface>asphalt</surface>
+              <estimated_traffic_class>5</estimated_traffic_class>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.528112" lon="38.323571">
+        <ele>115</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <highway>residential</highway>
+            </gpxtpx:Extensions>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="57.528085" lon="38.323623">
+        <ele>114.75</ele>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:Extensions>
+              <reversedirection>yes</reversedirection>
+              <highway>residential</highway>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
@@ -4290,14 +4403,13 @@
         <extensions>
           <gpxtpx:TrackPointExtension>
             <gpxtpx:Extensions>
-              <reversedirection>yes</reversedirection>
-              <highway>pedestrian</highway>
+              <highway>steps</highway>
             </gpxtpx:Extensions>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="57.5306" lon="38.321421">
-        <ele>105.25</ele>
+      <trkpt lat="57.530675" lon="38.32137">
+        <ele>104.75</ele>
       </trkpt>
     </trkseg>
   </trk>
